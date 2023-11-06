@@ -1,4 +1,4 @@
-Welcome to my Github Page: you can find my pre-historical side for now - means i'm still learning! Bem-Vindos ao meu Github: por hora eu sou um animal pré-histórico, isso quer dizer que ainda estou aprendendo! 
+Welcome to my Github Page! I'm a front-end student with interest and current working on music and arts! I love pixel art, cinema and coding! 
 <div align="center">
   <a href="https://github.com/PauloGomes1138">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGomes1138&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
